@@ -1,0 +1,8 @@
+{
+  "name": "Resume Creator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "24f68b79"
+}
